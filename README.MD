@@ -35,11 +35,18 @@ Python is the main programming language of this prototype, OpenCV and CVzone are
   pip install opencv-python
   ```
 
-- Installing CVzone
+- Installing cvzone
 
     ```python
     pip install cvzone
     ```
+
+- Or, Installing cvzone using GitHub
+
+    ```python
+    pip install git+https://github.com/cvzone/cvzone.git
+    ```
+
 
 ## Demo
 
