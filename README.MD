@@ -1,4 +1,4 @@
-# Face Detection with CVZONE
+# Face Detection using CV Zone Python
 
 ## Introduction
 
